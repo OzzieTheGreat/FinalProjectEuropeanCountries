@@ -1,2 +1,2 @@
-# FinalProjectEuropeanCountries
+# EuropeCountries
 Created with CodeSandbox
